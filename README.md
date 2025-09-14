@@ -1,2 +1,3 @@
 # sigma-demo
 This is the demo for Git &amp; GitHub class...
+It's my first day on GitHub
